@@ -1,7 +1,7 @@
 {
     "name": "RouterAVS",
     "website": "https://www.routerprotocol.com/",
-    "description": "This is a Router Protocol Operator for the AVS network.",
-    "logo": "https://holesky-operator-metadata.s3.amazonaws.com/eigenlayer.png",
+    "description": "This is a Router Protocol AVS.",
+    "logo": "https://raw.githubusercontent.com/router-protocol/router-avs-metadata/main/router.png",
     "twitter": "https://twitter.com/routerprotocol"
 }
