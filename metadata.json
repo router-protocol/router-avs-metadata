@@ -1,7 +1,7 @@
 {
-    "name": "RouterAVSAlphaWReq",
+    "name": "RouterAVSAlpha",
     "website": "https://www.routerprotocol.com/",
-    "description": "This is a Router Protocol AVS With Rewards.",
+    "description": "This is a Router Protocol AVS.",
     "logo": "https://raw.githubusercontent.com/router-protocol/router-avs-metadata/main/router.png",
     "twitter": "https://twitter.com/routerprotocol"
 }
